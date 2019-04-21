@@ -5,7 +5,6 @@
   "main": "sketch.js",
   "scripts": {
     "start": "canvas-sketch sketch.js --open",
-    "build": "canvas-sketch sketch.js --open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
