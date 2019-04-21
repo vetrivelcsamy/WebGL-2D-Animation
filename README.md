@@ -1,4 +1,3 @@
-# WebGL-2D-Animation
 ## Why this WebGL Animation
 
 Yeah! i Love Modern Web Things, If you'd like to contribute, help me close issues.
