@@ -60,7 +60,7 @@ const sketch = () => {
     context.font = `${radius * width}px "Helvetcia"`;
     context.translate(x, y);
     context.rotate(rotation);
-    context.fillText('+', x, y);
+    context.fillText('=', x, y);
 
     context.restore();
     });
